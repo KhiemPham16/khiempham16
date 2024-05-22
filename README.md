@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm Pham Gia Khiem, a second-year IT student specializing in software applications and I'm studying [Cao Đẳng Việt Mỹ - APC](http://caodangvietmy.edu.vn) class of 2022. I'm form Vietnam my and goal is to become a FullStack Developer
+I'm Pham Gia Khiem, a second-year IT student specializing in software applications and I'm studying [Cao Đẳng Việt Mỹ - APC](http://caodangvietmy.edu.vn) class of 2022. I'm form Vietnam and my goal is to become a FullStack Developer
 
 ## 💻 Tech Stack:
 
