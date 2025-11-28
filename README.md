@@ -33,7 +33,7 @@ I'm Pham Gia Khiem, a second-year IT student specializing in software applicatio
 </p>
 
 ## ✨ Project Showcase
-
+![KhiemPham16/SUIBOOTCAMP](https://github.com/KhiemPham16/SUIBOOTCAMP)
 <!---
 **KhiemPham16/khiempham16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
